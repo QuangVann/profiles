@@ -2,8 +2,7 @@ import React, { useContext } from "react";
 import "./Works.css";
 import Html from "../../img/HTML5.png";
 import CSS from "../../img/CSS3.png";
-import javaScript from "../../img/amazon.png";
-import javaScript from "../../img/javaScript.png";
+import javaScripts from "../../img/javaScript.png";
 import Reacts from "../../img/React.png";
 import Facebook from "../../img/Facebook.png";
 import { themeContext } from "../../Context";
@@ -54,10 +53,10 @@ const Works = () => {
             <img src={CSS} alt="" />
           </div>
           <div className="w-secCircle">
-            <img src={javaScript} alt="" />
+            <img src={javaScripts} alt="" />
           </div>{" "}
           <div className="w-secCircle">
-            <img src={React} alt="" />
+            <img src={Reacts} alt="" />
           </div>
           <div className="w-secCircle">
             <img src={Facebook} alt="" />
