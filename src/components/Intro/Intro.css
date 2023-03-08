@@ -53,9 +53,8 @@
   flex: 1;
   position: relative;
 }
-.i-right img{
+.i-right .boy {
   width: 400px;
-  height: auto;
 }
 .i-right > * {
   position: absolute;
