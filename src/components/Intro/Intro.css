@@ -53,9 +53,6 @@
   flex: 1;
   position: relative;
 }
-.i-right .boy {
-  width: 400px;
-}
 .i-right > * {
   position: absolute;
   z-index: 1;
