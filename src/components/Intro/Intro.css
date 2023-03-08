@@ -104,6 +104,9 @@
     transform: scale(0.8);
     left: -3rem;
   }
+  .i-right img{
+    max-width: 100%;
+  }
   .i-right .blur {
     display: none;
   }
