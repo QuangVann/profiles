@@ -3,7 +3,9 @@
   height: 77vh;
   margin-top: 6rem;
 }
-
+img {
+  max-width: 100%;
+}
 /* left side styling */
 .i-left {
   display: flex;
