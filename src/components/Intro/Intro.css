@@ -54,7 +54,8 @@
   position: relative;
 }
 .i-right img{
-  width: 100px;
+  width: 400px;
+  height: auto;
 }
 .i-right > * {
   position: absolute;
