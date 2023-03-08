@@ -3,9 +3,7 @@
   height: 77vh;
   margin-top: 6rem;
 }
-img {
-  max-width: 100%;
-}
+
 /* left side styling */
 .i-left {
   display: flex;
@@ -54,6 +52,9 @@ img {
 .i-right {
   flex: 1;
   position: relative;
+}
+.i-right img{
+  width: 400px;
 }
 .i-right > * {
   position: absolute;
