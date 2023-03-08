@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import "./Works.css";
 import Html from "../../img/HTML5.png";
 import CSS from "../../img/CSS3.png";
-import javaScripts from "../../img/JavaScript.png";
+import Upwork from "../../img/Upwork.png";
 import Reacts from "../../img/React.png";
 import Facebook from "../../img/Facebook.png";
 import { themeContext } from "../../Context";
@@ -53,7 +53,7 @@ const Works = () => {
             <img src={CSS} alt="" />
           </div>
           <div className="w-secCircle">
-            <img src={javaScripts} alt="" />
+            <img src={Upwork} alt="" />
           </div>{" "}
           <div className="w-secCircle">
             <img src={Reacts} alt="" />
