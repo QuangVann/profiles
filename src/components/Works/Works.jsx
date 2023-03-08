@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import "./Works.css";
 import Html from "../../img/HTML5.png";
 import CSS from "../../img/CSS3.png";
-import javaScripts from "../../img/javaScript.png";
+import javaScripts from "../../img/JavaScript.png";
 import Reacts from "../../img/React.png";
 import Facebook from "../../img/Facebook.png";
 import { themeContext } from "../../Context";
