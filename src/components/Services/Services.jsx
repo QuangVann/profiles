@@ -29,7 +29,9 @@ const Services = () => {
         <spane>
           Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem.
           <br />
-          Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.
+          Sit sint consectetur velit. Quisquam quos quisquam cupiditate.
+          <br />
+          Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
